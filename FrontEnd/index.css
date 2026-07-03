@@ -18,3 +18,14 @@ h1{
 #p2{
     color:rgb(226, 43, 122);
 }
+#nav{
+    text-align:center;
+    background-color:red;
+    height:25px;
+    padding-top:5px;
+}
+#nav{
+    margin: 0px 5px;
+    text-decoration:none;
+    color:green;
+}
