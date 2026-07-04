@@ -25,7 +25,38 @@ h1{
     padding-top:5px;
 }
 #nav{
-    margin: 0px 5px;
+    margin: 0 5px;
     text-decoration:none;
     color:green;
+}
+#card{
+  align-items: center;
+  margin-top: 3px;
+  border: 3px  solid black;
+  width: auto;
+}
+
+#card-img{
+  width: 300px;
+  height: 300px;
+  align-items: center;
+  margin: 0px auto;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
+
+#action{
+  text-align: center;
+}
+#card-toggle{
+    color:brown;
+    background-color: aquamarine;
+    width:100%;
+}
+#random-User{
+    color:gray;
+    background-color:greenyellow;
 }
